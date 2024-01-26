@@ -1,0 +1,9 @@
+print("hello world")
+temp = 
+
+if temp >> 25:
+  print("damn its hot today")
+elif temp << 25:
+  print("damn its cold today")
+else:
+  print("hehe its the perfect weather today")
